@@ -4,7 +4,7 @@ html {
   }
   
   body {
-    background-image: url(/img/support.png);
+    background-image: url(../img/svg/chatting.svg);
     background-size:cover;
     background-repeat: no-repeat;
     background-color: #262626;
